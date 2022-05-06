@@ -1,9 +1,9 @@
 # ticTacToeJava
 
-Practice with https://www.youtube.com/watch?v=gQb3dE-y1S4
-Procedural programming
-Used random for cpu position
-No ML
+Practice with https://www.youtube.com/watch?v=gQb3dE-y1S4 <br/>
+Procedural programming <br/>
+Used random for cpu position <br/>
+No ML<br/>
 
 Win
 
